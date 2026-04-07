@@ -1,8 +1,8 @@
-UI-UX-Experiment4
-Aim:
+## UI-UX-Experiment 4
+## Aim:
 To Design a wireframe diagram for a generic application or website using Balsamiq
 
-Algorithm:
+## Algorithm:
 1.Create Welcome/Splash Screen
 
 2.Add logo at the top center
@@ -47,7 +47,8 @@ Algorithm:
 
 22.Add a "Place Order" or "Submit" button at the bottom
 
-Output:
-Screenshot 2026-04-07 110235
-Result:
+## Output:
+<img width="1121" height="706" alt="Screenshot 2026-04-07 110235" src="https://github.com/user-attachments/assets/fac981e4-0a96-4c59-ad3d-1e7563f2c73c" />
+
+## Result:
 To Design a wireframe diagram for a generic application or website using Balsamiq is completed
